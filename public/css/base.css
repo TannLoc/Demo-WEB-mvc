@@ -1,0 +1,21 @@
+:root {
+    --primay-color: #0a97b0;
+    --sub-primary-color: #04233b;
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #1f1f1f;
+}
+
+* {
+    box-sizing: inherit; 
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%; /*1rem = 10px*/
+    line-height: 1.6rem; /* 1.6rem = 16px */
+    font-family: 'Poppins', sans-serif; /* sans-serif chữ không chân*/
+    box-sizing: border-box;
+}
+
